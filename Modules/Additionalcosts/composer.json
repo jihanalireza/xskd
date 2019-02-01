@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/additionalcosts",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Additionalcosts\\Providers\\AdditionalcostsServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Additionalcosts\\": ""
+        }
+    }
+}

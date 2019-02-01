@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/forgotpassword",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Forgotpassword\\Providers\\ForgotpasswordServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Forgotpassword\\": ""
+        }
+    }
+}

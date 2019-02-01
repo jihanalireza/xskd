@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/bookdata",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Bookdata\\Providers\\BookdataServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Bookdata\\": ""
+        }
+    }
+}

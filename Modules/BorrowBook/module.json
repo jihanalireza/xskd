@@ -1,0 +1,14 @@
+{
+    "name": "BorrowBook",
+    "alias": "borrowbook",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\BorrowBook\\Providers\\BorrowBookServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

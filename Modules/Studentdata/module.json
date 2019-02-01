@@ -1,0 +1,14 @@
+{
+    "name": "Studentdata",
+    "alias": "studentdata",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Studentdata\\Providers\\StudentdataServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Bookdata",
+    "alias": "bookdata",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Bookdata\\Providers\\BookdataServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

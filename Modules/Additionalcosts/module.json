@@ -1,0 +1,14 @@
+{
+    "name": "Additionalcosts",
+    "alias": "additionalcosts",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Additionalcosts\\Providers\\AdditionalcostsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

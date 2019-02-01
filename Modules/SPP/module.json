@@ -1,0 +1,14 @@
+{
+    "name": "SPP",
+    "alias": "spp",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\SPP\\Providers\\SPPServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

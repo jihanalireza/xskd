@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/studentattendance",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\StudentAttendance\\Providers\\StudentAttendanceServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\StudentAttendance\\": ""
+        }
+    }
+}

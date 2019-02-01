@@ -1,0 +1,14 @@
+{
+    "name": "Classdata",
+    "alias": "classdata",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Classdata\\Providers\\ClassdataServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

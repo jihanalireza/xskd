@@ -1,0 +1,14 @@
+{
+    "name": "FineTransaction",
+    "alias": "finetransaction",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\FineTransaction\\Providers\\FineTransactionServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

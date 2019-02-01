@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/borrowbook",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\BorrowBook\\Providers\\BorrowBookServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\BorrowBook\\": ""
+        }
+    }
+}

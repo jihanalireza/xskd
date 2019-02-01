@@ -1,0 +1,14 @@
+{
+    "name": "Teacherdata",
+    "alias": "teacherdata",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Teacherdata\\Providers\\TeacherdataServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

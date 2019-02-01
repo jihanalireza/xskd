@@ -1,0 +1,14 @@
+{
+    "name": "PSB",
+    "alias": "psb",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\PSB\\Providers\\PSBServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

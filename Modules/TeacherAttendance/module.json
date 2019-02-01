@@ -1,0 +1,14 @@
+{
+    "name": "TeacherAttendance",
+    "alias": "teacherattendance",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\TeacherAttendance\\Providers\\TeacherAttendanceServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
